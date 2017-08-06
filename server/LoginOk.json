@@ -25,6 +25,9 @@
     {"name": "region", "type": "STRING"},
     {"name": "contentURL", "type": "STRING"},
     {"name": "eventAssetsURL", "type": "STRING"},
-    {"type": "BYTE"}
+    {"type": "BYTE"},
+    {"type": "BYTE"},
+    {"type": "BYTE"},
+    {"type": "STRING"}
   ]
 }
